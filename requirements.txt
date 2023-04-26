@@ -1,0 +1,4 @@
+django-filter==23.1
+djangorestframework==3.14.0
+Markdown==3.4.3
+postgres==4.0
